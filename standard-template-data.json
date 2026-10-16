@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-16T09:50:51.643429185Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-16T09:54:04.187692220Z",
     "templateType": "trip_g",
     "propertyId": "50b0a7ed-33a5-43bb-aab5-9a44931de32d",
     "homepageId": "01a1441b-c937-701b-b0d4-17ad161d8bc7"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "xn--ok0b52guvjwvl61ao2bky2c.com",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/674225",
     "ybsId": "64263",
     "tripPropertyId": "2720",
     "partnerType": "distributor_a",
